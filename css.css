@@ -1,0 +1,15 @@
+header {
+  height: 1000px;
+}
+
+.b {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  text-align: center;
+  display: inline-block;
+}
+
+footer {
+  height: 1000px;
+}
